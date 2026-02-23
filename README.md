@@ -18,6 +18,23 @@ It also supports `.pdf` compression using Ghostscript.
 
 ## Installation
 
+Installing Ghostscript (Windows)
+
+1. Download from the official site:
+   https://www.ghostscript.com/releases/gsdnld.html
+
+2. Install the Windows 64-bit version.
+
+3. After installation, verify:
+
+```bash
+gswin64c --version
+```
+
+If it prints a version number, Ghostscript is installed correctly.
+
+---
+
 Clone the repository:
 
 ```bash
