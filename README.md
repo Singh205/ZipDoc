@@ -21,7 +21,7 @@ It also supports `.pdf` compression using Ghostscript.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zipdoc.git
+git clone https://github.com/Singh205/zipdoc.git
 cd zipdoc
 ```
 
